@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pmpleader
-- 👀 I’m interested in java、c++、python、chrome、cef
+- 👀 I’m interested in java、c++、python、chrome、cef、make money free！
 - 🌱 I’m currently learning make money free！
 - 💞️ I’m looking to collaborate on study for make money free！
 - 📫 How to reach me ；
