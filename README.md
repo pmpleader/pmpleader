@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @pmpleader
-- 👀 I’m interested in java、c++、python、chrome、cef、make money free！
-- 🌱 I’m currently learning make money free！
-- 💞️ I’m looking to collaborate on study for make money free！
-- 📫 How to reach me ；
+- 👀 I’m interested in AI、c++、python、paddlefl、fate，apsi，mp-spdz、cef
 
 <!---
 pmpleader/pmpleader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
